@@ -23,7 +23,22 @@ public class MainPlayer : MonoBehaviour
         Jump();
     }
 
-    protected virtual void Move() { }
+    protected virtual void Move() {
+        float moveInput = Input.GetAxisRaw("Horizontal");
+
+        
+        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+
+        
+        if (moveInput > 0)
+        {
+            transform.localScale = new Vector3(1, 1, 1); 
+        }
+        else if (moveInput < 0) 
+        {
+            transform.localScale = new Vector3(-1, 1, 1); 
+        }
+    }
 
     protected virtual void Jump() { }
 
