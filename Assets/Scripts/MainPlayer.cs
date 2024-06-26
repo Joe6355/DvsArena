@@ -24,20 +24,7 @@ public class MainPlayer : MonoBehaviour
     }
 
     protected virtual void Move() {
-        float moveInput = Input.GetAxisRaw("Horizontal");
-
         
-        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
-
-        
-        if (moveInput > 0)
-        {
-            transform.localScale = new Vector3(1, 1, 1); 
-        }
-        else if (moveInput < 0) 
-        {
-            transform.localScale = new Vector3(-1, 1, 1); 
-        }
     }
 
     protected virtual void Jump() { }
@@ -54,6 +41,24 @@ public class MainPlayer : MonoBehaviour
             }
 
             Destroy(other.gameObject);
+        }
+    }
+
+    protected void Flip()
+    {
+        float moveInput = Input.GetAxisRaw("Horizontal");
+
+
+        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+
+
+        if (moveInput < 0)
+        {
+            transform.localScale = new Vector3(1, 2.475f, 1);
+        }
+        else if (moveInput > 0)
+        {
+            transform.localScale = new Vector3(-1, 2.475f, 1);
         }
     }
 

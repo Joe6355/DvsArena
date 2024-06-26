@@ -11,6 +11,7 @@ public class Player_Blue : MainPlayer
         hp = 10;
         moveSpeed = 10f;
         jumpForse = 10f;
+        maxHP = 10;
 
     }
 
@@ -30,6 +31,8 @@ public class Player_Blue : MainPlayer
         }
 
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+
+        //Flip();
     }
 
 
