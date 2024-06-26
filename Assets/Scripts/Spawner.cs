@@ -18,24 +18,30 @@ public class Spawner : MonoBehaviour
         timer = spawnInterval;
 
         timerCircle = Instantiate(timerCirclePrefab, transform.position + Vector3.up * 2, Quaternion.identity, transform);
+        timerCircle.transform.localScale = new Vector3(timerCircle.transform.localScale.x, 2f, timerCircle.transform.localScale.z);
         timerCircleRenderer = timerCircle.GetComponent<SpriteRenderer>();
         timerCircle.SetActive(false);
+
+     
+        
+
     }
+
+
+
 
     void Update()
     {
         if (!IsObjectAtSpawner())
         {
             timer -= Time.deltaTime;
-
             if (timerCircleRenderer != null)
             {
-                float alpha = Mathf.Lerp(0f, 1f, 1 - (timer / spawnInterval));
+                float alpha = Mathf.Lerp(1f, 0f, timer / spawnInterval);
                 Color currentColor = timerCircleRenderer.color;
                 timerCircleRenderer.color = new Color(currentColor.r, currentColor.g, currentColor.b, alpha);
                 timerCircle.SetActive(true);
             }
-
             if (timer <= 0f)
             {
                 SpawnObject();
@@ -47,6 +53,7 @@ public class Spawner : MonoBehaviour
             }
         }
     }
+
 
     private void SpawnObject()
     {
