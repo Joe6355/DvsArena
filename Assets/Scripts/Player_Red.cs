@@ -15,6 +15,17 @@ public class Player_Red : MainPlayer
         
     }
 
+
+    protected override void Update()
+    {
+        base.Update();
+
+        if (Input.GetMouseButton(0))
+        {
+            gun.Shoot();
+        }
+    }
+
     protected override void Move()
     {
         base.Move();
@@ -32,7 +43,7 @@ public class Player_Red : MainPlayer
 
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
 
-        //Flip();
+        Flip(moveInput);
     }
 
 
@@ -61,5 +72,6 @@ public class Player_Red : MainPlayer
             isGrounded = false;
         }
     }
-   
 }
+
+

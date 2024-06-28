@@ -11,6 +11,8 @@ public class MainPlayer : MonoBehaviour
     protected Rigidbody2D rb;
     public bool isGrounded;
 
+    public MainGun gun;
+
 
     protected virtual void Start()
     {
@@ -44,14 +46,9 @@ public class MainPlayer : MonoBehaviour
         }
     }
 
-    protected void Flip()
+
+    protected void Flip(float moveInput)
     {
-        float moveInput = Input.GetAxisRaw("Horizontal");
-
-
-        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
-
-
         if (moveInput < 0)
         {
             transform.localScale = new Vector3(1, 2.475f, 1);
@@ -61,6 +58,5 @@ public class MainPlayer : MonoBehaviour
             transform.localScale = new Vector3(-1, 2.475f, 1);
         }
     }
-
 }
 

@@ -15,6 +15,16 @@ public class Player_Blue : MainPlayer
 
     }
 
+    protected override void Update()
+    {
+        base.Update();
+
+        if(Input.GetKeyDown(KeyCode.E))
+        {
+            gun.Shoot();
+        }
+    }
+
     protected override void Move()
     {
         base.Move();
@@ -32,7 +42,7 @@ public class Player_Blue : MainPlayer
 
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
 
-        //Flip();
+        Flip(moveInput);
     }
 
 
