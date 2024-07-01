@@ -72,6 +72,17 @@ public class Player_Red : MainPlayer
             isGrounded = false;
         }
     }
+
+    public override void TakeDamage(int damage)
+    {
+        hp -= damage;
+        if (hp < 0)
+        {
+            Debug.Log("Игрок умер");
+        }
+        base.TakeDamage(damage);
+    }
+
 }
 
 

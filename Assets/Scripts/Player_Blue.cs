@@ -11,8 +11,7 @@ public class Player_Blue : MainPlayer
         hp = 10;
         moveSpeed = 10f;
         jumpForse = 10f;
-        maxHP = 10;
-
+        maxHP = 10; 
     }
 
     protected override void Update()
@@ -70,5 +69,15 @@ public class Player_Blue : MainPlayer
         {
             isGrounded = false;
         }
+    }
+    
+    public override void TakeDamage(int damage)
+    {
+        hp -= damage;
+        if (hp < 0) 
+        {
+            Debug.Log("Игрок умер");
+        }
+        base.TakeDamage(damage);
     }
 }

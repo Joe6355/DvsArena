@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class Bullet:MonoBehaviour
 {
-    public float lifetime = 2f; // Время жизни снаряда
+    public int damage = 10; // Урон пули
+    public float lifetime = 2f; // Время жизни пули
 
     private void Start()
     {
-        Destroy(gameObject, lifetime);
+        Destroy(gameObject, lifetime); // Уничтожаем пулю по истечении времени жизни
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
-    {
-        // Логика при столкновении с объектом
-        Destroy(gameObject);
+    { 
+        Destroy(gameObject); // Уничтожаем пулю при столкновении с любым объектом
     }
 }

@@ -46,6 +46,7 @@ public class MainPlayer : MonoBehaviour
         }
     }
 
+  
 
     protected void Flip(float moveInput)
     {
@@ -57,6 +58,11 @@ public class MainPlayer : MonoBehaviour
         {
             transform.localScale = new Vector3(-1, 2.475f, 1);
         }
+    }
+
+
+    public virtual void TakeDamage(int damage)
+    {  
     }
 }
 
