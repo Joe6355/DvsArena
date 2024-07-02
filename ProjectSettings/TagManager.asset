@@ -6,6 +6,16 @@ TagManager:
   tags:
   - Grounded
   - Healing
+  - Head
+  - Body
+  - Leg
+  - Bullet
+  - Ak47
+  - Pistol
+  - Sniperka
+  - Bazooka
+  - ShotGun
+  - Granade
   layers:
   - Default
   - TransparentFX

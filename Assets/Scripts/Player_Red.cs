@@ -12,7 +12,8 @@ public class Player_Red : MainPlayer
         moveSpeed = 10f;
         jumpForse = 10f;
         maxHP = 10;
-        
+
+        EquipGun("Pistol");
     }
 
 
@@ -22,7 +23,14 @@ public class Player_Red : MainPlayer
 
         if (Input.GetMouseButton(0))
         {
-            gun.Shoot();
+            foreach (MainGun gun in guns)
+            {
+                if (gun.gameObject.activeSelf)
+                {
+                    gun.Shoot(); // Вызываем метод Shoot для активного оружия
+                    break; // Выходим из цикла после первого выстрела
+                }
+            }
         }
     }
 

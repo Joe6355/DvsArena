@@ -11,7 +11,7 @@ public class MainPlayer : MonoBehaviour
     protected Rigidbody2D rb;
     public bool isGrounded;
 
-    public MainGun gun;
+    public MainGun [] guns;
 
 
     protected virtual void Start()
@@ -33,6 +33,7 @@ public class MainPlayer : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        // Обработка события взаимодействия с вещами типа "Healing"
         if (other.CompareTag("Healing"))
         {
             hp += 5;
@@ -44,9 +45,53 @@ public class MainPlayer : MonoBehaviour
 
             Destroy(other.gameObject);
         }
+
+        // Обработка смены оружия
+        switch (other.tag)
+        {
+            case "Ak47":
+                EquipGun("Ak47");
+                break;
+
+            case "Pistol":
+                EquipGun("Pistol");
+                break;
+
+            case "Sniperka":
+                EquipGun("Sniperka");
+                break;
+
+            case "Granade":
+                EquipGun("Granade");
+                break;
+
+            case "Bazooka":
+                EquipGun("Bazooka");
+                break;
+
+            case "ShotGun":
+                EquipGun("ShotGun");
+                break;
+        }
     }
 
-  
+    protected void EquipGun(string gunTag)
+    {
+        foreach (MainGun gun in guns)
+        {
+            if (gun.CompareTag(gunTag))
+            {
+                gun.gameObject.SetActive(true); // Включаем нужное оружие
+                Debug.Log($"Equipped {gunTag}"); // Отладочное сообщение
+            }
+            else
+            {
+                gun.gameObject.SetActive(false); // Выключаем все остальные
+                Debug.Log($"Unequipped {gun.tag}"); // Отладочное сообщение
+            }
+        }
+    }
+
 
     protected void Flip(float moveInput)
     {

@@ -11,16 +11,25 @@ public class Player_Blue : MainPlayer
         hp = 10;
         moveSpeed = 10f;
         jumpForse = 10f;
-        maxHP = 10; 
+        maxHP = 10;
+
+        EquipGun("Pistol");
     }
 
     protected override void Update()
     {
         base.Update();
 
-        if(Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            gun.Shoot();
+            foreach (MainGun gun in guns)
+            {
+                if (gun.gameObject.activeSelf)
+                {
+                    gun.Shoot(); // Вызываем метод Shoot для активного оружия
+                    break; // Выходим из цикла после первого выстрела
+                }
+            }
         }
     }
 
