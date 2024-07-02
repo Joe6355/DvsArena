@@ -17,6 +17,7 @@ public class MainPlayer : MonoBehaviour
     protected virtual void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        hp = maxHP;
     }
 
     protected virtual void Update()

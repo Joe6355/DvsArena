@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player_Blue : MainPlayer
 {
-
+    
     protected override void Start()
     {
         base.Start();
@@ -20,6 +21,7 @@ public class Player_Blue : MainPlayer
     {
         base.Update();
 
+        
         if (Input.GetKeyDown(KeyCode.E))
         {
             foreach (MainGun gun in guns)
