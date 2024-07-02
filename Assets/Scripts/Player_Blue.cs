@@ -85,10 +85,21 @@ public class Player_Blue : MainPlayer
     public override void TakeDamage(int damage)
     {
         hp -= damage;
-        if (hp < 0) 
+        if (hp <= 0)
         {
-            Debug.Log("Игрок умер");
+            totalLives--;
+            UpdateLivesText();
+            if (totalLives > 0)
+            {
+                StartCoroutine(Respawn());
+            }
+            else
+            {
+                Debug.Log("Game Over");
+                player.SetActive(false);
+            }
         }
         base.TakeDamage(damage);
     }
+
 }
