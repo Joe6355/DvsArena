@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MainPlayer : MonoBehaviour
 {
@@ -11,12 +12,22 @@ public class MainPlayer : MonoBehaviour
     protected Rigidbody2D rb;
     public bool isGrounded;
 
-    public MainGun gun;
+    public MainGun [] guns;
+
+    public int totalLives = 3;//общее кол-во жизней
+    public Transform respawnPoint;
+    public Text livesText;
+    public float respawnDelay = 2f;// кд на респ
+    //public GameObject shieldObject;
+    //public float shieldDuration = 3f;//длительность щита
+    public GameObject player;
 
 
     protected virtual void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        hp = maxHP;
+        UpdateLivesText();
     }
 
     protected virtual void Update()
@@ -33,6 +44,7 @@ public class MainPlayer : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        // Обработка события взаимодействия с вещами типа "Healing"
         if (other.CompareTag("Healing"))
         {
             hp += 5;
@@ -44,9 +56,53 @@ public class MainPlayer : MonoBehaviour
 
             Destroy(other.gameObject);
         }
+
+        // Обработка смены оружия
+        switch (other.tag)
+        {
+            case "Ak47":
+                EquipGun("Ak47");
+                break;
+
+            case "Pistol":
+                EquipGun("Pistol");
+                break;
+
+            case "Sniperka":
+                EquipGun("Sniperka");
+                break;
+
+            case "Granade":
+                EquipGun("Granade");
+                break;
+
+            case "Bazooka":
+                EquipGun("Bazooka");
+                break;
+
+            case "ShotGun":
+                EquipGun("ShotGun");
+                break;
+        }
     }
 
-  
+    protected void EquipGun(string gunTag)
+    {
+        foreach (MainGun gun in guns)
+        {
+            if (gun.CompareTag(gunTag))
+            {
+                gun.gameObject.SetActive(true); // Включаем нужное оружие
+                Debug.Log($"Equipped {gunTag}"); // Отладочное сообщение
+            }
+            else
+            {
+                gun.gameObject.SetActive(false); // Выключаем все остальные
+                Debug.Log($"Unequipped {gun.tag}"); // Отладочное сообщение
+            }
+        }
+    }
+
 
     protected void Flip(float moveInput)
     {
@@ -64,5 +120,35 @@ public class MainPlayer : MonoBehaviour
     public virtual void TakeDamage(int damage)
     {  
     }
+
+
+    protected void UpdateLivesText()
+    {
+        if (livesText != null)
+        {
+            livesText.text = "Lives: " + totalLives;
+        }
+    }
+    protected IEnumerator Respawn()
+    {
+        Vector3 originalPosition = transform.position;
+        rb.velocity = Vector2.zero;
+        rb.isKinematic = true; // Отключаем физику
+
+        // Перемещаем игрока за пределы видимости
+        transform.position = new Vector3(9999, 9999, 9999);
+
+        yield return new WaitForSeconds(respawnDelay); // Задержка перед возрождением
+
+        // Возвращаем игрока на точку возрождения
+        transform.position = respawnPoint.position;
+        hp = maxHP;
+        rb.isKinematic = false; // Включаем физику
+    }
+
+
+
+
+
 }
 

@@ -12,7 +12,8 @@ public class Player_Red : MainPlayer
         moveSpeed = 10f;
         jumpForse = 10f;
         maxHP = 10;
-        
+
+        EquipGun("Pistol");
     }
 
 
@@ -22,7 +23,14 @@ public class Player_Red : MainPlayer
 
         if (Input.GetMouseButton(0))
         {
-            gun.Shoot();
+            foreach (MainGun gun in guns)
+            {
+                if (gun.gameObject.activeSelf)
+                {
+                    gun.Shoot(); // Вызываем метод Shoot для активного оружия
+                    break; // Выходим из цикла после первого выстрела
+                }
+            }
         }
     }
 
@@ -76,12 +84,23 @@ public class Player_Red : MainPlayer
     public override void TakeDamage(int damage)
     {
         hp -= damage;
-        if (hp < 0)
+        if (hp <= 0)
         {
-            Debug.Log("Игрок умер");
+            totalLives--;
+            UpdateLivesText();
+            if (totalLives > 0)
+            {
+                StartCoroutine(Respawn());
+            }
+            else
+            {
+                Debug.Log("Game Over");
+                player.SetActive(false);
+            }
         }
         base.TakeDamage(damage);
     }
+
 
 }
 
