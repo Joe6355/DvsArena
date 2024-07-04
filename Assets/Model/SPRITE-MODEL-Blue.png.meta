@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: c26daebcf47097b43a527b457a973bcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1319871624970033645
+    second: SPRITE-MODEL-Blue_0
+  - first:
+      213: 1475563876532916287
+    second: SPRITE-MODEL-Blue_1
+  - first:
+      213: 492230835976511764
+    second: SPRITE-MODEL-Blue_2
+  - first:
+      213: 6016066111891714853
+    second: SPRITE-MODEL-Blue_3
+  - first:
+      213: 5880609478838399692
+    second: SPRITE-MODEL-Blue_4
+  - first:
+      213: -786170995478805552
+    second: SPRITE-MODEL-Blue_5
+  - first:
+      213: -2245303956583593031
+    second: SPRITE-MODEL-Blue_6
+  - first:
+      213: 7441125792402540730
+    second: SPRITE-MODEL-Blue_7
+  - first:
+      213: -3480059108913486846
+    second: SPRITE-MODEL-Blue_8
+  - first:
+      213: 8230813034959575705
+    second: SPRITE-MODEL-Blue_9
+  - first:
+      213: 1160484823460810694
+    second: SPRITE-MODEL-Blue_10
+  - first:
+      213: -3132786929816724570
+    second: SPRITE-MODEL-Blue_11
+  - first:
+      213: 1289051699058933364
+    second: SPRITE-MODEL-Blue_12
+  - first:
+      213: -7035838380987958542
+    second: SPRITE-MODEL-Blue_13
+  - first:
+      213: -4793494263253821695
+    second: SPRITE-MODEL-Blue_14
+  - first:
+      213: -9016032756728192412
+    second: SPRITE-MODEL-Blue_15
+  - first:
+      213: 5710359007303172467
+    second: SPRITE-MODEL-Blue_16
+  - first:
+      213: 3049871840779427312
+    second: SPRITE-MODEL-Blue_17
+  - first:
+      213: -7274213845699419655
+    second: SPRITE-MODEL-Blue_18
+  - first:
+      213: 2520050089974962742
+    second: SPRITE-MODEL-Blue_19
+  - first:
+      213: -1526774114251557896
+    second: SPRITE-MODEL-Blue_20
+  - first:
+      213: 772434568104664241
+    second: SPRITE-MODEL-Blue_21
+  - first:
+      213: 3702313767176879600
+    second: SPRITE-MODEL-Blue_22
+  - first:
+      213: 8752984401171836205
+    second: SPRITE-MODEL-Blue_23
+  - first:
+      213: 5427181006620904208
+    second: SPRITE-MODEL-Blue_24
+  - first:
+      213: -2401889647436440335
+    second: SPRITE-MODEL-Blue_25
+  - first:
+      213: -2551684814651441566
+    second: SPRITE-MODEL-Blue_26
+  - first:
+      213: 7821314363786042547
+    second: SPRITE-MODEL-Blue_27
+  - first:
+      213: -6631874190259035313
+    second: SPRITE-MODEL-Blue_28
+  - first:
+      213: 23410729475474130
+    second: SPRITE-MODEL-Blue_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162b8400cfdeade0800000000000000
+      internalID: -1319871624970033645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30942027814a7410800000000000000
+      internalID: 1475563876532916287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 105
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411afdd5651c4d600800000000000000
+      internalID: 492230835976511764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5233298114c5d7350800000000000000
+      internalID: 6016066111891714853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc235f80a2f1c9150800000000000000
+      internalID: 5880609478838399692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 106
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d345c915a5f615f0800000000000000
+      internalID: -786170995478805552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb4e0792f317d0e0800000000000000
+      internalID: -2245303956583593031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 103
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab88621cb70344760800000000000000
+      internalID: 7441125792402540730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20469d7bda854bfc0800000000000000
+      internalID: -3480059108913486846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a9b69b8d8b93270800000000000000
+      internalID: 8230813034959575705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf0d956cceda1010800000000000000
+      internalID: 1160484823460810694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab9943b2ea1684d0800000000000000
+      internalID: -3132786929816724570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e758bc0b1a3e110800000000000000
+      internalID: 1289051699058933364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa372c154eab5e90800000000000000
+      internalID: -7035838380987958542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10712e55d561a7db0800000000000000
+      internalID: -4793494263253821695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 71
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4622eeb0afd90e280800000000000000
+      internalID: -9016032756728192412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371024a23454f3f40800000000000000
+      internalID: 5710359007303172467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fddf10c742535a20800000000000000
+      internalID: 3049871840779427312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1abda3c0dcc0b90800000000000000
+      internalID: -7274213845699419655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a162d743409f220800000000000000
+      internalID: 2520050089974962742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f336c3480fcfcae0800000000000000
+      internalID: -1526774114251557896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc5c1ca52d38ba00800000000000000
+      internalID: 772434568104664241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdbd9b61c2416330800000000000000
+      internalID: 3702313767176879600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 14
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de16400f8d87970800000000000000
+      internalID: 8752984401171836205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bc26ffe58315b40800000000000000
+      internalID: 5427181006620904208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 10
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcdcd66716caaed0800000000000000
+      internalID: -2401889647436440335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e31f33e28969cd0800000000000000
+      internalID: -2551684814651441566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc902a89f3ea8c60800000000000000
+      internalID: 7821314363786042547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 6
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f436786af89d6f3a0800000000000000
+      internalID: -6631874190259035313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE-MODEL-Blue_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d281563feb235000800000000000000
+      internalID: 23410729475474130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
