@@ -44,10 +44,19 @@ public class Player_Blue : MainPlayer
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             moveInput = -1f;
+            DefStatus();
         }
         else if (Input.GetKey(KeyCode.RightArrow))
         {
             moveInput = 1f;
+            DefStatus();
+        }
+        else if (Input.GetKeyDown(KeyCode.DownArrow))
+        {
+            headCollSit.gameObject.SetActive(true);
+            headCollDef.gameObject.SetActive(false);
+            bodyCollSit.gameObject.SetActive(true);
+            bodyCollDef.gameObject.SetActive(false);
         }
 
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
@@ -63,6 +72,7 @@ public class Player_Blue : MainPlayer
         if (Input.GetKey(KeyCode.UpArrow) && isGrounded)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForse);
+            DefStatus();
         }
     }
 

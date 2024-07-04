@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MainGun : MonoBehaviour
+public class MainGun : Sounds
 {
     public GameObject projectilePrefab; // Префаб снаряда
     public Transform firePoint; // Точка, из которой будут вылетать снаряды

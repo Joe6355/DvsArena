@@ -34,6 +34,8 @@ public class Player_Red : MainPlayer
         }
     }
 
+    
+
     protected override void Move()
     {
         base.Move();
@@ -43,10 +45,19 @@ public class Player_Red : MainPlayer
         if (Input.GetKey(KeyCode.A))
         {
             moveInput = -1f;
+            DefStatus();
         }
         else if (Input.GetKey(KeyCode.D))
         {
             moveInput = 1f;
+            DefStatus();
+        }
+        else if(Input.GetKeyDown(KeyCode.S))
+        {
+            headCollSit.gameObject.SetActive(true);
+            headCollDef.gameObject.SetActive(false);
+            bodyCollSit.gameObject.SetActive(true);
+            bodyCollDef.gameObject.SetActive(false);
         }
 
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
@@ -62,6 +73,7 @@ public class Player_Red : MainPlayer
         if(Input.GetKey(KeyCode.W) && isGrounded)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForse);
+            DefStatus();
         }
     }
 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class MainPlayer : MonoBehaviour
+public class MainPlayer : Sounds
 {
     public int maxHP;
     public int hp;
@@ -22,14 +22,28 @@ public class MainPlayer : MonoBehaviour
     //public float shieldDuration = 3f;//длительность щита
     public GameObject player;
 
+    public Collider2D headCollDef;
+    public Collider2D bodyCollDef;
+    public Collider2D headCollSit;
+    public Collider2D bodyCollSit;
+
 
     protected virtual void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         hp = maxHP;
         UpdateLivesText();
+
+        headCollSit.gameObject.SetActive(false);
     }
 
+    protected void DefStatus()
+    {
+        headCollSit.gameObject.SetActive(false);
+        headCollDef.gameObject.SetActive(true);
+        bodyCollSit.gameObject.SetActive(false);
+        bodyCollDef.gameObject.SetActive(true);
+    }
     protected virtual void Update()
     {
         Move();

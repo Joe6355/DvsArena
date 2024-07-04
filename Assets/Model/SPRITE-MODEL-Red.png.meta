@@ -181,6 +181,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -824,7 +848,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SPRITE-MODEL-Red_0: 2134401067831275667
+      SPRITE-MODEL-Red_1: -3085932406105057795
+      SPRITE-MODEL-Red_10: -3672454879141479372
+      SPRITE-MODEL-Red_11: -5822748768904302514
+      SPRITE-MODEL-Red_12: 1961222922969468426
+      SPRITE-MODEL-Red_13: -4777401301994853923
+      SPRITE-MODEL-Red_14: -577779178852579965
+      SPRITE-MODEL-Red_15: -912619957807015649
+      SPRITE-MODEL-Red_16: -8636633460248788664
+      SPRITE-MODEL-Red_17: -780583435174706424
+      SPRITE-MODEL-Red_18: -4611925489673663747
+      SPRITE-MODEL-Red_19: 2120174652765553370
+      SPRITE-MODEL-Red_2: -2829614939873899504
+      SPRITE-MODEL-Red_20: 9027618494734746168
+      SPRITE-MODEL-Red_21: 8211172999653650420
+      SPRITE-MODEL-Red_22: -1398754941534164969
+      SPRITE-MODEL-Red_23: -1110003669092326004
+      SPRITE-MODEL-Red_24: 7370098109904984986
+      SPRITE-MODEL-Red_25: 8540099679292536277
+      SPRITE-MODEL-Red_26: 5319812618982474368
+      SPRITE-MODEL-Red_27: -4292803162191361091
+      SPRITE-MODEL-Red_28: 7288343390985964720
+      SPRITE-MODEL-Red_29: -1922341792873934992
+      SPRITE-MODEL-Red_3: -6986297909938510144
+      SPRITE-MODEL-Red_4: 319425354944960741
+      SPRITE-MODEL-Red_5: -8075307215751048175
+      SPRITE-MODEL-Red_6: -717772006135881605
+      SPRITE-MODEL-Red_7: -6307965282428710616
+      SPRITE-MODEL-Red_8: 2445374053549280698
+      SPRITE-MODEL-Red_9: 2796303931512687785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

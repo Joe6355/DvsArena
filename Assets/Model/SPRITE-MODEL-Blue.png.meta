@@ -181,6 +181,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -824,7 +848,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SPRITE-MODEL-Blue_0: -1319871624970033645
+      SPRITE-MODEL-Blue_1: 1475563876532916287
+      SPRITE-MODEL-Blue_10: 1160484823460810694
+      SPRITE-MODEL-Blue_11: -3132786929816724570
+      SPRITE-MODEL-Blue_12: 1289051699058933364
+      SPRITE-MODEL-Blue_13: -7035838380987958542
+      SPRITE-MODEL-Blue_14: -4793494263253821695
+      SPRITE-MODEL-Blue_15: -9016032756728192412
+      SPRITE-MODEL-Blue_16: 5710359007303172467
+      SPRITE-MODEL-Blue_17: 3049871840779427312
+      SPRITE-MODEL-Blue_18: -7274213845699419655
+      SPRITE-MODEL-Blue_19: 2520050089974962742
+      SPRITE-MODEL-Blue_2: 492230835976511764
+      SPRITE-MODEL-Blue_20: -1526774114251557896
+      SPRITE-MODEL-Blue_21: 772434568104664241
+      SPRITE-MODEL-Blue_22: 3702313767176879600
+      SPRITE-MODEL-Blue_23: 8752984401171836205
+      SPRITE-MODEL-Blue_24: 5427181006620904208
+      SPRITE-MODEL-Blue_25: -2401889647436440335
+      SPRITE-MODEL-Blue_26: -2551684814651441566
+      SPRITE-MODEL-Blue_27: 7821314363786042547
+      SPRITE-MODEL-Blue_28: -6631874190259035313
+      SPRITE-MODEL-Blue_29: 23410729475474130
+      SPRITE-MODEL-Blue_3: 6016066111891714853
+      SPRITE-MODEL-Blue_4: 5880609478838399692
+      SPRITE-MODEL-Blue_5: -786170995478805552
+      SPRITE-MODEL-Blue_6: -2245303956583593031
+      SPRITE-MODEL-Blue_7: 7441125792402540730
+      SPRITE-MODEL-Blue_8: -3480059108913486846
+      SPRITE-MODEL-Blue_9: 8230813034959575705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

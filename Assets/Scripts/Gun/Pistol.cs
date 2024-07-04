@@ -7,5 +7,6 @@ public class Pistol : MainGun
     public override void Shoot()
     {
         base.Shoot();
+        PlaySound(sounds[0], destroyed:true);
     }
 }
