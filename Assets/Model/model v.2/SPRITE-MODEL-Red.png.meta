@@ -1,97 +1,97 @@
 fileFormatVersion: 2
-guid: c26daebcf47097b43a527b457a973bcc
+guid: e55b20038033d974aa105092dc72998a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1319871624970033645
-    second: SPRITE-MODEL-Blue_0
+      213: 2134401067831275667
+    second: SPRITE-MODEL-Red_0
   - first:
-      213: 1475563876532916287
-    second: SPRITE-MODEL-Blue_1
+      213: -3085932406105057795
+    second: SPRITE-MODEL-Red_1
   - first:
-      213: 492230835976511764
-    second: SPRITE-MODEL-Blue_2
+      213: -2829614939873899504
+    second: SPRITE-MODEL-Red_2
   - first:
-      213: 6016066111891714853
-    second: SPRITE-MODEL-Blue_3
+      213: -6986297909938510144
+    second: SPRITE-MODEL-Red_3
   - first:
-      213: 5880609478838399692
-    second: SPRITE-MODEL-Blue_4
+      213: 319425354944960741
+    second: SPRITE-MODEL-Red_4
   - first:
-      213: -786170995478805552
-    second: SPRITE-MODEL-Blue_5
+      213: -8075307215751048175
+    second: SPRITE-MODEL-Red_5
   - first:
-      213: -2245303956583593031
-    second: SPRITE-MODEL-Blue_6
+      213: -717772006135881605
+    second: SPRITE-MODEL-Red_6
   - first:
-      213: 7441125792402540730
-    second: SPRITE-MODEL-Blue_7
+      213: -6307965282428710616
+    second: SPRITE-MODEL-Red_7
   - first:
-      213: -3480059108913486846
-    second: SPRITE-MODEL-Blue_8
+      213: 2445374053549280698
+    second: SPRITE-MODEL-Red_8
   - first:
-      213: 8230813034959575705
-    second: SPRITE-MODEL-Blue_9
+      213: 2796303931512687785
+    second: SPRITE-MODEL-Red_9
   - first:
-      213: 1160484823460810694
-    second: SPRITE-MODEL-Blue_10
+      213: -3672454879141479372
+    second: SPRITE-MODEL-Red_10
   - first:
-      213: -3132786929816724570
-    second: SPRITE-MODEL-Blue_11
+      213: -5822748768904302514
+    second: SPRITE-MODEL-Red_11
   - first:
-      213: 1289051699058933364
-    second: SPRITE-MODEL-Blue_12
+      213: 1961222922969468426
+    second: SPRITE-MODEL-Red_12
   - first:
-      213: -7035838380987958542
-    second: SPRITE-MODEL-Blue_13
+      213: -4777401301994853923
+    second: SPRITE-MODEL-Red_13
   - first:
-      213: -4793494263253821695
-    second: SPRITE-MODEL-Blue_14
+      213: -577779178852579965
+    second: SPRITE-MODEL-Red_14
   - first:
-      213: -9016032756728192412
-    second: SPRITE-MODEL-Blue_15
+      213: -912619957807015649
+    second: SPRITE-MODEL-Red_15
   - first:
-      213: 5710359007303172467
-    second: SPRITE-MODEL-Blue_16
+      213: -8636633460248788664
+    second: SPRITE-MODEL-Red_16
   - first:
-      213: 3049871840779427312
-    second: SPRITE-MODEL-Blue_17
+      213: -780583435174706424
+    second: SPRITE-MODEL-Red_17
   - first:
-      213: -7274213845699419655
-    second: SPRITE-MODEL-Blue_18
+      213: -4611925489673663747
+    second: SPRITE-MODEL-Red_18
   - first:
-      213: 2520050089974962742
-    second: SPRITE-MODEL-Blue_19
+      213: 2120174652765553370
+    second: SPRITE-MODEL-Red_19
   - first:
-      213: -1526774114251557896
-    second: SPRITE-MODEL-Blue_20
+      213: 9027618494734746168
+    second: SPRITE-MODEL-Red_20
   - first:
-      213: 772434568104664241
-    second: SPRITE-MODEL-Blue_21
+      213: 8211172999653650420
+    second: SPRITE-MODEL-Red_21
   - first:
-      213: 3702313767176879600
-    second: SPRITE-MODEL-Blue_22
+      213: -1398754941534164969
+    second: SPRITE-MODEL-Red_22
   - first:
-      213: 8752984401171836205
-    second: SPRITE-MODEL-Blue_23
+      213: -1110003669092326004
+    second: SPRITE-MODEL-Red_23
   - first:
-      213: 5427181006620904208
-    second: SPRITE-MODEL-Blue_24
+      213: 7370098109904984986
+    second: SPRITE-MODEL-Red_24
   - first:
-      213: -2401889647436440335
-    second: SPRITE-MODEL-Blue_25
+      213: 8540099679292536277
+    second: SPRITE-MODEL-Red_25
   - first:
-      213: -2551684814651441566
-    second: SPRITE-MODEL-Blue_26
+      213: 5319812618982474368
+    second: SPRITE-MODEL-Red_26
   - first:
-      213: 7821314363786042547
-    second: SPRITE-MODEL-Blue_27
+      213: -4292803162191361091
+    second: SPRITE-MODEL-Red_27
   - first:
-      213: -6631874190259035313
-    second: SPRITE-MODEL-Blue_28
+      213: 7288343390985964720
+    second: SPRITE-MODEL-Red_28
   - first:
-      213: 23410729475474130
-    second: SPRITE-MODEL-Blue_29
+      213: -1922341792873934992
+    second: SPRITE-MODEL-Red_29
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -181,41 +181,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_0
+      name: SPRITE-MODEL-Red_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 102
-        width: 9
-        height: 18
+        x: 35
+        y: 411
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3162b8400cfdeade0800000000000000
-      internalID: -1319871624970033645
+      spriteID: 3903c40767aee9d10800000000000000
+      internalID: 2134401067831275667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_1
+      name: SPRITE-MODEL-Red_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 103
-        width: 9
-        height: 18
+        x: 163
+        y: 415
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f30942027814a7410800000000000000
-      internalID: 1475563876532916287
+      spriteID: df5dd3d93d09c25d0800000000000000
+      internalID: -3085932406105057795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_2
+      name: SPRITE-MODEL-Red_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 105
-        width: 9
-        height: 17
+        x: 291
+        y: 423
+        width: 30
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +241,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 411afdd5651c4d600800000000000000
-      internalID: 492230835976511764
+      spriteID: 01c8da144303bb8d0800000000000000
+      internalID: -2829614939873899504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_3
+      name: SPRITE-MODEL-Red_3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 103
-        width: 9
-        height: 18
+        x: 419
+        y: 415
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5233298114c5d7350800000000000000
-      internalID: 6016066111891714853
+      spriteID: 0c6af0fd01fab0f90800000000000000
+      internalID: -6986297909938510144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_4
+      name: SPRITE-MODEL-Red_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 102
-        width: 9
-        height: 18
+        x: 547
+        y: 411
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +283,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc235f80a2f1c9150800000000000000
-      internalID: 5880609478838399692
+      spriteID: 5e85fbdfaa3de6400800000000000000
+      internalID: 319425354944960741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_5
+      name: SPRITE-MODEL-Red_5
       rect:
         serializedVersion: 2
-        x: 167
-        y: 106
-        width: 11
-        height: 15
+        x: 671
+        y: 427
+        width: 38
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +304,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0d345c915a5f615f0800000000000000
-      internalID: -786170995478805552
+      spriteID: 11492014fdebeef80800000000000000
+      internalID: -8075307215751048175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_6
+      name: SPRITE-MODEL-Red_6
       rect:
         serializedVersion: 2
-        x: 198
-        y: 107
-        width: 13
-        height: 15
+        x: 795
+        y: 431
+        width: 46
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +325,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9bb4e0792f317d0e0800000000000000
-      internalID: -2245303956583593031
+      spriteID: b702d80d926f906f0800000000000000
+      internalID: -717772006135881605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_7
+      name: SPRITE-MODEL-Red_7
       rect:
         serializedVersion: 2
-        x: 230
-        y: 103
-        width: 11
-        height: 18
+        x: 923
+        y: 415
+        width: 38
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,20 +346,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab88621cb70344760800000000000000
-      internalID: 7441125792402540730
+      spriteID: 82117552ffa9578a0800000000000000
+      internalID: -6307965282428710616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_8
+      name: SPRITE-MODEL-Red_8
       rect:
         serializedVersion: 2
-        x: 9
-        y: 70
-        width: 9
-        height: 18
+        x: 39
+        y: 283
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,20 +367,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20469d7bda854bfc0800000000000000
-      internalID: -3480059108913486846
+      spriteID: abd03ccdeb6bfe120800000000000000
+      internalID: 2445374053549280698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_9
+      name: SPRITE-MODEL-Red_9
       rect:
         serializedVersion: 2
-        x: 40
-        y: 71
-        width: 9
-        height: 18
+        x: 163
+        y: 287
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,20 +388,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99a9b69b8d8b93270800000000000000
-      internalID: 8230813034959575705
+      spriteID: 9ac87d93c977ec620800000000000000
+      internalID: 2796303931512687785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_10
+      name: SPRITE-MODEL-Red_10
       rect:
         serializedVersion: 2
-        x: 73
-        y: 73
-        width: 9
-        height: 17
+        x: 295
+        y: 295
+        width: 30
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,20 +409,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6cf0d956cceda1010800000000000000
-      internalID: 1160484823460810694
+      spriteID: 43c3f13beb1d80dc0800000000000000
+      internalID: -3672454879141479372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_11
+      name: SPRITE-MODEL-Red_11
       rect:
         serializedVersion: 2
-        x: 107
-        y: 71
-        width: 9
-        height: 18
+        x: 431
+        y: 287
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,20 +430,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ab9943b2ea1684d0800000000000000
-      internalID: -3132786929816724570
+      spriteID: e40bd1d48d0713fa0800000000000000
+      internalID: -5822748768904302514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_12
+      name: SPRITE-MODEL-Red_12
       rect:
         serializedVersion: 2
-        x: 137
-        y: 70
-        width: 9
-        height: 18
+        x: 551
+        y: 283
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,20 +451,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47e758bc0b1a3e110800000000000000
-      internalID: 1289051699058933364
+      spriteID: a0ec2f08bd9a73b10800000000000000
+      internalID: 1961222922969468426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_13
+      name: SPRITE-MODEL-Red_13
       rect:
         serializedVersion: 2
-        x: 168
-        y: 74
-        width: 11
-        height: 15
+        x: 675
+        y: 299
+        width: 38
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,20 +472,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2fa372c154eab5e90800000000000000
-      internalID: -7035838380987958542
+      spriteID: dd9ab1dd3d243bdb0800000000000000
+      internalID: -4777401301994853923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_14
+      name: SPRITE-MODEL-Red_14
       rect:
         serializedVersion: 2
-        x: 199
-        y: 75
-        width: 13
-        height: 15
+        x: 799
+        y: 303
+        width: 46
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,20 +493,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10712e55d561a7db0800000000000000
-      internalID: -4793494263253821695
+      spriteID: 38500e5e5e05bf7f0800000000000000
+      internalID: -577779178852579965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_15
+      name: SPRITE-MODEL-Red_15
       rect:
         serializedVersion: 2
-        x: 232
-        y: 71
-        width: 11
-        height: 18
+        x: 931
+        y: 287
+        width: 38
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +514,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4622eeb0afd90e280800000000000000
-      internalID: -9016032756728192412
+      spriteID: f191bffcbf8b553f0800000000000000
+      internalID: -912619957807015649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_16
+      name: SPRITE-MODEL-Red_16
       rect:
         serializedVersion: 2
-        x: 8
-        y: 38
-        width: 9
-        height: 18
+        x: 35
+        y: 155
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,20 +535,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 371024a23454f3f40800000000000000
-      internalID: 5710359007303172467
+      spriteID: 8414e9270a3842880800000000000000
+      internalID: -8636633460248788664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_17
+      name: SPRITE-MODEL-Red_17
       rect:
         serializedVersion: 2
-        x: 40
-        y: 38
-        width: 9
-        height: 14
+        x: 163
+        y: 155
+        width: 30
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,20 +556,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fddf10c742535a20800000000000000
-      internalID: 3049871840779427312
+      spriteID: 8038bdc508fca25f0800000000000000
+      internalID: -780583435174706424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_18
+      name: SPRITE-MODEL-Red_18
       rect:
         serializedVersion: 2
-        x: 8
-        y: 6
-        width: 9
-        height: 18
+        x: 35
+        y: 27
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,20 +577,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f1abda3c0dcc0b90800000000000000
-      internalID: -7274213845699419655
+      spriteID: dfa8e61c3362fffb0800000000000000
+      internalID: -4611925489673663747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_19
+      name: SPRITE-MODEL-Red_19
       rect:
         serializedVersion: 2
-        x: 40
-        y: 6
-        width: 9
-        height: 16
+        x: 163
+        y: 27
+        width: 30
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,20 +598,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63a162d743409f220800000000000000
-      internalID: 2520050089974962742
+      spriteID: ad2c0ef0d9f5c6d10800000000000000
+      internalID: 2120174652765553370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_20
+      name: SPRITE-MODEL-Red_20
       rect:
         serializedVersion: 2
-        x: 72
-        y: 6
-        width: 10
-        height: 18
+        x: 291
+        y: 27
+        width: 34
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,20 +619,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f336c3480fcfcae0800000000000000
-      internalID: -1526774114251557896
+      spriteID: 832496ac03b884d70800000000000000
+      internalID: 9027618494734746168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_21
+      name: SPRITE-MODEL-Red_21
       rect:
         serializedVersion: 2
-        x: 104
-        y: 10
-        width: 10
-        height: 18
+        x: 419
+        y: 43
+        width: 34
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,20 +640,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1bc5c1ca52d38ba00800000000000000
-      internalID: 772434568104664241
+      spriteID: 4ff62a9a652f3f170800000000000000
+      internalID: 8211172999653650420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_22
+      name: SPRITE-MODEL-Red_22
       rect:
         serializedVersion: 2
-        x: 136
-        y: 12
-        width: 10
-        height: 18
+        x: 547
+        y: 51
+        width: 34
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,20 +661,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fdbd9b61c2416330800000000000000
-      internalID: 3702313767176879600
+      spriteID: 718a806aacf969ce0800000000000000
+      internalID: -1398754941534164969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_23
+      name: SPRITE-MODEL-Red_23
       rect:
         serializedVersion: 2
-        x: 168
-        y: 14
-        width: 10
-        height: 18
+        x: 675
+        y: 59
+        width: 34
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,20 +682,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2de16400f8d87970800000000000000
-      internalID: 8752984401171836205
+      spriteID: c852f544b897890f0800000000000000
+      internalID: -1110003669092326004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_24
+      name: SPRITE-MODEL-Red_24
       rect:
         serializedVersion: 2
-        x: 200
-        y: 12
-        width: 9
-        height: 18
+        x: 803
+        y: 51
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,20 +703,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01bc26ffe58315b40800000000000000
-      internalID: 5427181006620904208
+      spriteID: a9b1aa8be29d74660800000000000000
+      internalID: 7370098109904984986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_25
+      name: SPRITE-MODEL-Red_25
       rect:
         serializedVersion: 2
-        x: 232
-        y: 10
-        width: 9
-        height: 18
+        x: 931
+        y: 43
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,20 +724,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fcdcd66716caaed0800000000000000
-      internalID: -2401889647436440335
+      spriteID: 5d5b8a23967848670800000000000000
+      internalID: 8540099679292536277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_26
+      name: SPRITE-MODEL-Red_26
       rect:
         serializedVersion: 2
-        x: 264
-        y: 8
-        width: 9
-        height: 18
+        x: 1059
+        y: 35
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,20 +745,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 26e31f33e28969cd0800000000000000
-      internalID: -2551684814651441566
+      spriteID: 08247123465c3d940800000000000000
+      internalID: 5319812618982474368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_27
+      name: SPRITE-MODEL-Red_27
       rect:
         serializedVersion: 2
-        x: 296
-        y: 6
-        width: 9
-        height: 18
+        x: 1187
+        y: 27
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,20 +766,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3bc902a89f3ea8c60800000000000000
-      internalID: 7821314363786042547
+      spriteID: dbb09eaa446ec64c0800000000000000
+      internalID: -4292803162191361091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_28
+      name: SPRITE-MODEL-Red_28
       rect:
         serializedVersion: 2
-        x: 328
-        y: 6
-        width: 9
-        height: 17
+        x: 1315
+        y: 27
+        width: 30
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -811,20 +787,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f436786af89d6f3a0800000000000000
-      internalID: -6631874190259035313
+      spriteID: 0bcc8c4e2b5652560800000000000000
+      internalID: 7288343390985964720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE-MODEL-Blue_29
+      name: SPRITE-MODEL-Red_29
       rect:
         serializedVersion: 2
-        x: 360
-        y: 6
-        width: 9
-        height: 18
+        x: 1443
+        y: 27
+        width: 30
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,8 +808,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d281563feb235000800000000000000
-      internalID: 23410729475474130
+      spriteID: 07f8cda03587255e0800000000000000
+      internalID: -1922341792873934992
       vertices: []
       indices: 
       edges: []
@@ -849,36 +825,36 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SPRITE-MODEL-Blue_0: -1319871624970033645
-      SPRITE-MODEL-Blue_1: 1475563876532916287
-      SPRITE-MODEL-Blue_10: 1160484823460810694
-      SPRITE-MODEL-Blue_11: -3132786929816724570
-      SPRITE-MODEL-Blue_12: 1289051699058933364
-      SPRITE-MODEL-Blue_13: -7035838380987958542
-      SPRITE-MODEL-Blue_14: -4793494263253821695
-      SPRITE-MODEL-Blue_15: -9016032756728192412
-      SPRITE-MODEL-Blue_16: 5710359007303172467
-      SPRITE-MODEL-Blue_17: 3049871840779427312
-      SPRITE-MODEL-Blue_18: -7274213845699419655
-      SPRITE-MODEL-Blue_19: 2520050089974962742
-      SPRITE-MODEL-Blue_2: 492230835976511764
-      SPRITE-MODEL-Blue_20: -1526774114251557896
-      SPRITE-MODEL-Blue_21: 772434568104664241
-      SPRITE-MODEL-Blue_22: 3702313767176879600
-      SPRITE-MODEL-Blue_23: 8752984401171836205
-      SPRITE-MODEL-Blue_24: 5427181006620904208
-      SPRITE-MODEL-Blue_25: -2401889647436440335
-      SPRITE-MODEL-Blue_26: -2551684814651441566
-      SPRITE-MODEL-Blue_27: 7821314363786042547
-      SPRITE-MODEL-Blue_28: -6631874190259035313
-      SPRITE-MODEL-Blue_29: 23410729475474130
-      SPRITE-MODEL-Blue_3: 6016066111891714853
-      SPRITE-MODEL-Blue_4: 5880609478838399692
-      SPRITE-MODEL-Blue_5: -786170995478805552
-      SPRITE-MODEL-Blue_6: -2245303956583593031
-      SPRITE-MODEL-Blue_7: 7441125792402540730
-      SPRITE-MODEL-Blue_8: -3480059108913486846
-      SPRITE-MODEL-Blue_9: 8230813034959575705
+      SPRITE-MODEL-Red_0: 2134401067831275667
+      SPRITE-MODEL-Red_1: -3085932406105057795
+      SPRITE-MODEL-Red_10: -3672454879141479372
+      SPRITE-MODEL-Red_11: -5822748768904302514
+      SPRITE-MODEL-Red_12: 1961222922969468426
+      SPRITE-MODEL-Red_13: -4777401301994853923
+      SPRITE-MODEL-Red_14: -577779178852579965
+      SPRITE-MODEL-Red_15: -912619957807015649
+      SPRITE-MODEL-Red_16: -8636633460248788664
+      SPRITE-MODEL-Red_17: -780583435174706424
+      SPRITE-MODEL-Red_18: -4611925489673663747
+      SPRITE-MODEL-Red_19: 2120174652765553370
+      SPRITE-MODEL-Red_2: -2829614939873899504
+      SPRITE-MODEL-Red_20: 9027618494734746168
+      SPRITE-MODEL-Red_21: 8211172999653650420
+      SPRITE-MODEL-Red_22: -1398754941534164969
+      SPRITE-MODEL-Red_23: -1110003669092326004
+      SPRITE-MODEL-Red_24: 7370098109904984986
+      SPRITE-MODEL-Red_25: 8540099679292536277
+      SPRITE-MODEL-Red_26: 5319812618982474368
+      SPRITE-MODEL-Red_27: -4292803162191361091
+      SPRITE-MODEL-Red_28: 7288343390985964720
+      SPRITE-MODEL-Red_29: -1922341792873934992
+      SPRITE-MODEL-Red_3: -6986297909938510144
+      SPRITE-MODEL-Red_4: 319425354944960741
+      SPRITE-MODEL-Red_5: -8075307215751048175
+      SPRITE-MODEL-Red_6: -717772006135881605
+      SPRITE-MODEL-Red_7: -6307965282428710616
+      SPRITE-MODEL-Red_8: 2445374053549280698
+      SPRITE-MODEL-Red_9: 2796303931512687785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -7,5 +7,6 @@ public class Sniperka : MainGun
     public override void Shoot()
     {
         base.Shoot(); // Одиночный выстрел
+        PlaySound(sounds[0], destroyed: true);
     }
 }

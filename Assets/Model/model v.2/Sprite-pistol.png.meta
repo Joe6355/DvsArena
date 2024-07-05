@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 28d8c6c315e3b3f4e95774aa3e062eec
+guid: 3cbc75d763cd11441951e9c7b4c0b503
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8127331503007307166
-    second: Sprite-awp_0
+      213: 7858092686236314311
+    second: Sprite-pistol_0
   - first:
-      213: 2730431490338997717
-    second: Sprite-awp_1
+      213: 2533846077056527469
+    second: Sprite-pistol_1
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -40,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -54,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -78,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,41 +97,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite-awp_0
+      name: Sprite-pistol_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 13
-        width: 19
-        height: 7
+        x: 50
+        y: 65
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +115,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e95979801f41ac070800000000000000
-      internalID: 8127331503007307166
+      spriteID: 7cae5370aad8d0d60800000000000000
+      internalID: 7858092686236314311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite-awp_1
+      name: Sprite-pistol_1
       rect:
         serializedVersion: 2
-        x: 39
-        y: 13
-        width: 19
-        height: 7
+        x: 193
+        y: 63
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,8 +136,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d5423959f074e520800000000000000
-      internalID: 2730431490338997717
+      spriteID: d6ca87a05970a2320800000000000000
+      internalID: 2533846077056527469
       vertices: []
       indices: 
       edges: []
@@ -177,8 +153,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sprite-awp_0: 8127331503007307166
-      Sprite-awp_1: 2730431490338997717
+      Sprite-pistol_0: 7858092686236314311
+      Sprite-pistol_1: 2533846077056527469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

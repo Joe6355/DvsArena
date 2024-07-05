@@ -402,6 +402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 917c933e6c4c9be469d134b9cb4edbf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1777528385}
   projectileSpeed: 10
@@ -565,6 +566,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbaefc030c24d9448a4aa1fb96382a45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1777528385}
   projectileSpeed: 10
@@ -714,6 +716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 917c933e6c4c9be469d134b9cb4edbf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1176600951}
   projectileSpeed: 10
@@ -937,6 +940,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b688d8e4595b6ec4fb1dba8cb279f8fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1777528385}
   projectileSpeed: 10
@@ -1039,90 +1043,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1 &394587717
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 394587719}
-  - component: {fileID: 394587718}
-  m_Layer: 0
-  m_Name: SPRITE-MODEL-Blue_0
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &394587718
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 394587717}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -1319871624970033645, guid: c26daebcf47097b43a527b457a973bcc, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.1125, y: 0.225}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &394587719
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 394587717}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.0513, y: -1.6702, z: 0}
-  m_LocalScale: {x: 6.2979, y: 5.6187, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1354,6 +1274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 917c933e6c4c9be469d134b9cb4edbf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1777528385}
   projectileSpeed: 10
@@ -1764,6 +1685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6931485afa49e4944a2d9faa6736478a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1176600951}
   projectileSpeed: 10
@@ -1914,6 +1836,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32882bbf74839334992db5264e1fbd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1176600951}
   projectileSpeed: 10
@@ -2063,6 +1986,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbaefc030c24d9448a4aa1fb96382a45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1176600951}
   projectileSpeed: 10
@@ -2212,6 +2136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b688d8e4595b6ec4fb1dba8cb279f8fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1176600951}
   projectileSpeed: 10
@@ -2491,6 +2416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 996a7142921e8324a98b750e049a1fff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1777528385}
   projectileSpeed: 10
@@ -2767,6 +2693,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65d1c92e820a5ac4fbca425eb4102d55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   maxHP: 0
   hp: 0
   moveSpeed: 0
@@ -3033,6 +2960,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32882bbf74839334992db5264e1fbd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1777528385}
   projectileSpeed: 10
@@ -3495,6 +3423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6931485afa49e4944a2d9faa6736478a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1777528385}
   projectileSpeed: 10
@@ -4173,6 +4102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7ecdc0caf2edd344848f99e1219108b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   maxHP: 10
   hp: 0
   moveSpeed: 0
@@ -4235,12 +4165,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1319871624970033645, guid: c26daebcf47097b43a527b457a973bcc, type: 3}
-  m_Color: {r: 0, g: 0.24642372, b: 1, a: 1}
+  m_Sprite: {fileID: -1319871624970033645, guid: 48b62947b37e6cc4a938bb17dfbff446, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 12, y: 6.75}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4346,6 +4276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 996a7142921e8324a98b750e049a1fff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sounds: []
   projectilePrefab: {fileID: 5509889307159026158, guid: 921e4e663b62f70448cabff8aa782fa9, type: 3}
   firePoint: {fileID: 1176600951}
   projectileSpeed: 10
@@ -4557,4 +4488,3 @@ SceneRoots:
   - {fileID: 1146210006}
   - {fileID: 1688845862}
   - {fileID: 1087370444}
-  - {fileID: 394587719}

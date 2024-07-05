@@ -9,6 +9,7 @@ public class Ak47 : MainGun
 
     public override void Shoot()
     {
+
         if (Time.time >= lastShootTime + shootCooldown)
         {
             StartCoroutine(BurstFire());
