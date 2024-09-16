@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 5737782f38a994d45acb5dcb74afec41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 136302056629292088
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_0"
+  - first:
+      213: 9139069939917316258
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_1"
+  - first:
+      213: -1635761475768857998
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_2"
+  - first:
+      213: 3142749885826267572
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_3"
+  - first:
+      213: -683770161064546604
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_4"
+  - first:
+      213: 1453903062061940030
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_5"
+  - first:
+      213: 949413312712283433
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_6"
+  - first:
+      213: 6841614756588969115
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_7"
+  - first:
+      213: 6530495466903994971
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_8"
+  - first:
+      213: -8703959967863042379
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_9"
+  - first:
+      213: 6189097487455538742
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_10"
+  - first:
+      213: -5008878925390501347
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_11"
+  - first:
+      213: -528980026642999786
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_12"
+  - first:
+      213: 114548012779034615
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_13"
+  - first:
+      213: -8824040150737431811
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_14"
+  - first:
+      213: -856026539041515494
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_15"
+  - first:
+      213: -8267525238597093491
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_16"
+  - first:
+      213: -3641481960883780918
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_17"
+  - first:
+      213: 724711390667565095
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_18"
+  - first:
+      213: -2301761777642254185
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_19"
+  - first:
+      213: -3244074202791774609
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_20"
+  - first:
+      213: -5323713563651424449
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_21"
+  - first:
+      213: 7434626744821450611
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_22"
+  - first:
+      213: 3519920134072820487
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_23"
+  - first:
+      213: -6374946246960548889
+    second: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_24"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4b839ffd34e100800000000000000
+      internalID: 136302056629292088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 40
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e83280bf74de70800000000000000
+      internalID: 9139069939917316258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 40
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a478bba9b9c49e0800000000000000
+      internalID: -1635761475768857998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 40
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f292ce5a4d9b20800000000000000
+      internalID: 3142749885826267572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 40
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de6cb949a2c286f0800000000000000
+      internalID: -683770161064546604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 40
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dfd00c12d4d2410800000000000000
+      internalID: 1453903062061940030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 40
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9251e31b06efc2d00800000000000000
+      internalID: 949413312712283433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 40
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c5e886f5c42fe50800000000000000
+      internalID: 6841614756588969115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 40
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b528c10f60bf0aa50800000000000000
+      internalID: 6530495466903994971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 40
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be8d485682553780800000000000000
+      internalID: -8703959967863042379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 40
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ecc04af5714e550800000000000000
+      internalID: 6189097487455538742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 40
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa821d723ec7ab0800000000000000
+      internalID: -5008878925390501347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 40
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616daaae77fa8a8f0800000000000000
+      internalID: -528980026642999786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 40
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7db6b8fc4f69100800000000000000
+      internalID: 114548012779034615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 40
+        width: 29
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2d2831c36ba8580800000000000000
+      internalID: -8824040150737431811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 40
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a189f1ee568ce14f0800000000000000
+      internalID: -856026539041515494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 40
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87f7d54999d34d80800000000000000
+      internalID: -8267525238597093491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c9f1869f674ccc4fbfa1445d1d69c5a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_0": 136302056629292088
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_1": 9139069939917316258
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_10": 6189097487455538742
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_11": -5008878925390501347
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_12": -528980026642999786
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_13": 114548012779034615
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_14": -8824040150737431811
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_15": -856026539041515494
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_16": -8267525238597093491
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_17": -3641481960883780918
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_18": 724711390667565095
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_19": -2301761777642254185
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_2": -1635761475768857998
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_20": -3244074202791774609
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_21": -5323713563651424449
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_22": 7434626744821450611
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_23": 3519920134072820487
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_24": -6374946246960548889
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_3": 3142749885826267572
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_4": -683770161064546604
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_5": 1453903062061940030
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_6": 949413312712283433
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_7": 6841614756588969115
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_8": 6530495466903994971
+      "SpritePlayerBlue \u2014 \u043A\u043E\u043F\u0438\u044F-Sheet_9": -8703959967863042379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

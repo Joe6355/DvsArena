@@ -120,13 +120,13 @@ public class MainPlayer : Sounds
 
     protected void Flip(float moveInput)
     {
-        if (moveInput < 0)
+        if (moveInput > 0)
         {
-            transform.localScale = new Vector3(1, 2.475f, 1);
+            transform.localScale = new Vector3(3, 3, 3);
         }
-        else if (moveInput > 0)
+        else if (moveInput < 0)
         {
-            transform.localScale = new Vector3(-1, 2.475f, 1);
+            transform.localScale = new Vector3(-3, 3, 3);
         }
     }
 

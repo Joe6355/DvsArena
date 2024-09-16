@@ -6,6 +6,7 @@ public class Bullet:MonoBehaviour
 {
     public int damage = 10; // Урон пули
     public float lifetime = 2f; // Время жизни пули
+    public GameObject effDestroy;
 
     private void Start()
     {
@@ -15,5 +16,7 @@ public class Bullet:MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     { 
         Destroy(gameObject); // Уничтожаем пулю при столкновении с любым объектом
+        //Instantiate(effDestroy, transform.position, Quaternion.identity);
+       
     }
 }

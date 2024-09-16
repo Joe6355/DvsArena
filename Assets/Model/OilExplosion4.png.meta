@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: 8b7820b7263bf3f4398336488845381c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8621194428317609763
+    second: OilExplosion4_0
+  - first:
+      213: -9075037571863563611
+    second: OilExplosion4_1
+  - first:
+      213: -8850028022638611028
+    second: OilExplosion4_2
+  - first:
+      213: 8891876344696286005
+    second: OilExplosion4_3
+  - first:
+      213: -5748252729969602979
+    second: OilExplosion4_4
+  - first:
+      213: 6925404783541643202
+    second: OilExplosion4_5
+  - first:
+      213: 3759585802674542438
+    second: OilExplosion4_6
+  - first:
+      213: 7640569109455212533
+    second: OilExplosion4_7
+  - first:
+      213: -6028690696440873413
+    second: OilExplosion4_8
+  - first:
+      213: 4530213578127229826
+    second: OilExplosion4_9
+  - first:
+      213: 2771745456188547613
+    second: OilExplosion4_10
+  - first:
+      213: 4370325026681801385
+    second: OilExplosion4_11
+  - first:
+      213: -4963847256458120123
+    second: OilExplosion4_12
+  - first:
+      213: -712043225153790295
+    second: OilExplosion4_13
+  - first:
+      213: -4801908888178337490
+    second: OilExplosion4_14
+  - first:
+      213: 3303579427572562085
+    second: OilExplosion4_15
+  - first:
+      213: -1322350444411456134
+    second: OilExplosion4_16
+  - first:
+      213: -8090099213755477189
+    second: OilExplosion4_17
+  - first:
+      213: -7643343677054500349
+    second: OilExplosion4_18
+  - first:
+      213: 6815905391103289203
+    second: OilExplosion4_19
+  - first:
+      213: 3861801091894570050
+    second: OilExplosion4_20
+  - first:
+      213: -3506042316078084636
+    second: OilExplosion4_21
+  - first:
+      213: 3671965543247138815
+    second: OilExplosion4_22
+  - first:
+      213: 8255736895714640791
+    second: OilExplosion4_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OilExplosion4_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 84
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fa27fc7a2a4a770800000000000000
+      internalID: 8621194428317609763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 78
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2bfb5f86dfe0280800000000000000
+      internalID: -9075037571863563611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 80
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca57f5227626e2580800000000000000
+      internalID: -8850028022638611028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 74
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b2250ac6a466b70800000000000000
+      internalID: 8891876344696286005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 62
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0efef89a1a30b0800000000000000
+      internalID: -5748252729969602979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c76ac055fafb1060800000000000000
+      internalID: 6925404783541643202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667940f4e5bbc2430800000000000000
+      internalID: 3759585802674542438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff86e2af11c80a60800000000000000
+      internalID: 7640569109455212533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e70f1c0c9c55ca0800000000000000
+      internalID: -6028690696440873413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 45
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283cce84f3d8ede30800000000000000
+      internalID: 4530213578127229826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12ebeb9ec7377620800000000000000
+      internalID: 2771745456188547613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa4e50f47386ac30800000000000000
+      internalID: 4370325026681801385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 54
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5443487483fdc1bb0800000000000000
+      internalID: -4963847256458120123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae1cf395705e16f0800000000000000
+      internalID: -712043225153790295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29d65cce413c5db0800000000000000
+      internalID: -4801908888178337490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a830cb7cfba8dd20800000000000000
+      internalID: 3303579427572562085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757644e64116ade0800000000000000
+      internalID: -1322350444411456134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 40
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b331076d0a13abf80800000000000000
+      internalID: -8090099213755477189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30240f00c636de590800000000000000
+      internalID: -7643343677054500349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 37
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377a16b47d5f69e50800000000000000
+      internalID: 6815905391103289203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6793e1afd79530800000000000000
+      internalID: 3861801091894570050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed8daed619085fc0800000000000000
+      internalID: -3506042316078084636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff48b8e43175f230800000000000000
+      internalID: 3671965543247138815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilExplosion4_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793482447f4429270800000000000000
+      internalID: 8255736895714640791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OilExplosion4_0: 8621194428317609763
+      OilExplosion4_1: -9075037571863563611
+      OilExplosion4_10: 2771745456188547613
+      OilExplosion4_11: 4370325026681801385
+      OilExplosion4_12: -4963847256458120123
+      OilExplosion4_13: -712043225153790295
+      OilExplosion4_14: -4801908888178337490
+      OilExplosion4_15: 3303579427572562085
+      OilExplosion4_16: -1322350444411456134
+      OilExplosion4_17: -8090099213755477189
+      OilExplosion4_18: -7643343677054500349
+      OilExplosion4_19: 6815905391103289203
+      OilExplosion4_2: -8850028022638611028
+      OilExplosion4_20: 3861801091894570050
+      OilExplosion4_21: -3506042316078084636
+      OilExplosion4_22: 3671965543247138815
+      OilExplosion4_23: 8255736895714640791
+      OilExplosion4_3: 8891876344696286005
+      OilExplosion4_4: -5748252729969602979
+      OilExplosion4_5: 6925404783541643202
+      OilExplosion4_6: 3759585802674542438
+      OilExplosion4_7: 7640569109455212533
+      OilExplosion4_8: -6028690696440873413
+      OilExplosion4_9: 4530213578127229826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

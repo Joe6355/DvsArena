@@ -18,7 +18,7 @@ public class Spawner : MonoBehaviour
         timer = spawnInterval;
 
         timerCircle = Instantiate(timerCirclePrefab, transform.position + Vector3.up * 2, Quaternion.identity, transform);
-        timerCircle.transform.localScale = new Vector3(timerCircle.transform.localScale.x, 2f, timerCircle.transform.localScale.z);
+        timerCircle.transform.localScale = new Vector3(timerCircle.transform.localScale.x, 6f, timerCircle.transform.localScale.z);
         timerCircleRenderer = timerCircle.GetComponent<SpriteRenderer>();
         timerCircle.SetActive(false);
 
