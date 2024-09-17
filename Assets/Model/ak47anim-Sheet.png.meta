@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: f7539c791e6cee0449085d7c02e3b56e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3616621755169715251
+    second: ak47anim-Sheet_0
+  - first:
+      213: -2386650660334293909
+    second: ak47anim-Sheet_1
+  - first:
+      213: -2440478250680856851
+    second: ak47anim-Sheet_2
+  - first:
+      213: 5927411466321951383
+    second: ak47anim-Sheet_3
+  - first:
+      213: 6273946246065999564
+    second: ak47anim-Sheet_4
+  - first:
+      213: -7095740135062347030
+    second: ak47anim-Sheet_5
+  - first:
+      213: 7926015376430048798
+    second: ak47anim-Sheet_6
+  - first:
+      213: 2857364844282769773
+    second: ak47anim-Sheet_7
+  - first:
+      213: 6952496025933839549
+    second: ak47anim-Sheet_8
+  - first:
+      213: 7349603004278713646
+    second: ak47anim-Sheet_9
+  - first:
+      213: -5295749650924581093
+    second: ak47anim-Sheet_10
+  - first:
+      213: -9134805736163663262
+    second: ak47anim-Sheet_11
+  - first:
+      213: -1936169828141611832
+    second: ak47anim-Sheet_12
+  - first:
+      213: -8359688013592812357
+    second: ak47anim-Sheet_13
+  - first:
+      213: -1943615999572807964
+    second: ak47anim-Sheet_14
+  - first:
+      213: -5030268241492366004
+    second: ak47anim-Sheet_15
+  - first:
+      213: -723515764683594191
+    second: ak47anim-Sheet_16
+  - first:
+      213: 247095633136277018
+    second: ak47anim-Sheet_17
+  - first:
+      213: 4145595099842952694
+    second: ak47anim-Sheet_18
+  - first:
+      213: 788017659333447388
+    second: ak47anim-Sheet_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ak47anim-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 121
+        width: 360
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc824ecad2fcdc0800000000000000
+      internalID: -3616621755169715251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 116
+        width: 360
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ca2d39ed9e0eed0800000000000000
+      internalID: -2386650660334293909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 116
+        width: 360
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec91216fda12ed0800000000000000
+      internalID: -2440478250680856851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a72b7e255624250800000000000000
+      internalID: 5927411466321951383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2602721fdd68d90800000000000000
+      internalID: -7095740135062347030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61f929df2667a720800000000000000
+      internalID: 2857364844282769773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2d261ef80ff560800000000000000
+      internalID: 7349603004278713646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 93
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fcd3520c7b186b0800000000000000
+      internalID: -5295749650924581093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a3cbc496aa3180800000000000000
+      internalID: -9134805736163663262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 87
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c44ac0bcc75125e0800000000000000
+      internalID: -1936169828141611832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4a5bc0b0c6cfb80800000000000000
+      internalID: -8359688013592812357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee62bdcb83e605e0800000000000000
+      internalID: -1943615999572807964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4747
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d2be49fa5e03ab0800000000000000
+      internalID: -5030268241492366004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 146
+        width: 360
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a3a0de3e85f5f0800000000000000
+      internalID: -723515764683594191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4441
+        y: 58
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd3dbc67cc188930800000000000000
+      internalID: 4145595099842952694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 44
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0e45d2e99fea00800000000000000
+      internalID: 788017659333447388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 111
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee63cf49d7df5e4bbfa182170f81e27
+      internalID: 6273946246065999564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 104
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff46fdcec4469a4f8aa8d1bdd488fb9
+      internalID: 7926015376430048798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47anim-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 97
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1130f4cd1eccfd47857523e8dd095aa
+      internalID: 6952496025933839549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f1a9573ec30b0f49b520f3b7e980159
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ak47anim-Sheet_0: -3616621755169715251
+      ak47anim-Sheet_1: -2386650660334293909
+      ak47anim-Sheet_10: -5295749650924581093
+      ak47anim-Sheet_11: -9134805736163663262
+      ak47anim-Sheet_12: -1936169828141611832
+      ak47anim-Sheet_13: -8359688013592812357
+      ak47anim-Sheet_14: -1943615999572807964
+      ak47anim-Sheet_15: -5030268241492366004
+      ak47anim-Sheet_16: -723515764683594191
+      ak47anim-Sheet_17: 247095633136277018
+      ak47anim-Sheet_18: 4145595099842952694
+      ak47anim-Sheet_19: 788017659333447388
+      ak47anim-Sheet_2: -2440478250680856851
+      ak47anim-Sheet_3: 5927411466321951383
+      ak47anim-Sheet_4: 6273946246065999564
+      ak47anim-Sheet_5: -7095740135062347030
+      ak47anim-Sheet_6: 7926015376430048798
+      ak47anim-Sheet_7: 2857364844282769773
+      ak47anim-Sheet_8: 6952496025933839549
+      ak47anim-Sheet_9: 7349603004278713646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
